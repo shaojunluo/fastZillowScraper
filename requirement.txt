@@ -1,1 +1,10 @@
-
+json
+numpy
+pandas
+requests
+eautifulsoup4
+geohash
+osgeo
+polygon_geohasher
+selenium
+shapely
