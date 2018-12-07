@@ -17,3 +17,5 @@ Scrape Zillow data violates their terms of use!!!
 Please see some visuallization of the results on:
 
 http://shaojunluo.com/house-price/
+
+![alt text](http://shaojunluo.com/wp-content/uploads/2018/09/Boston_house-1600x1103.png)
