@@ -6,7 +6,8 @@ Requirement:
 
 In requirement.txt
 
-Add the function dealing with manual Captcha  
+Update: Dec 5st 2018
+Add some function dealing with Captcha  
 
 ## NOTICE!!!
 
